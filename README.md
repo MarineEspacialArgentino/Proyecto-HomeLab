@@ -33,7 +33,7 @@ Simulación de tickets de soporte técnico, incluyendo identificación del probl
 - Diagnóstico de conectividad y servicios.
 - Documentación y seguimiento de incidentes.
 
-📁 [Ver tickets de Jira](./Homelab-TicketJira/)
+📁 [Ver tickets de Jira](https://github.com/MarineEspacialArgentino/Homelab-TicketJira)
 
 ### 2. Soporte Microsoft 365
 
